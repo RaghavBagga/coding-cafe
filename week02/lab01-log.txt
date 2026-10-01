@@ -1,0 +1,323 @@
+exit
+clear
+ls
+clear
+pwd
+ls
+ls -force
+clear
+pwd
+ls
+clear
+cd C:\Users\ragha\Downloads\Labs - L2-20260825\Lab1
+clear
+exit
+C:\Users\ragha\Downloads
+cd C:\Users\ragha\Downloads
+clear
+ls
+pwd
+cd \\wsl.localhost\Ubuntu\home\ragha\Labs - L2-20260825
+clear
+cd Labs - L2-20260825
+cd "Labs - L2-20260825"
+clear
+pwd
+ls
+ls -force
+ls -a
+clear
+cd lab1
+cd Lab1
+clear
+pwd
+ls
+ls -a
+ls -l
+cd :
+cd
+clear
+pwd
+cd  "\\wsl.localhost\Ubuntu\home\ragha\Labs - L2-20260825"
+cd  "Labs - L2-20260825"
+clear
+cd
+clear
+cd  "Labs - L2-20260825"
+cd week2
+cd
+clear
+cd coding-cafe
+cd week2
+clear
+pwd
+ls
+ls-a
+ls -a
+ls -l
+clear
+cp README.md README-BACKUP.md
+clear
+cp notes.md notes.md
+cp notes.md notes-backup.md
+clear
+cd
+cd coding-cafe
+cls
+clear
+mv README.md README-BACKUP.md
+clear
+mv README-BACKUP.md README.md
+clear
+cp README.md README-BACKUP.md
+clear
+mv README-backup.md week01cd week1
+mv README-BACKUP.md week01cd week1
+mv README-BACKUP.md week1 cd week1
+mv README-BACKUP.md week1\cd week1
+clear
+mv README-BACKUP.md week1cd week1
+pwd
+mv README-BACKUP.md week1cd week1
+rm README.md
+ls -l
+ni README.md
+clear
+ni README.md
+mkdir README.md
+clear
+ls -l
+ls -a
+clear
+python3
+clear
+pip
+clear
+sudo apt install pip
+clear
+python3 -m pip install pandas
+clear
+sudo apt install python
+sudo apt install python3
+clear
+pip
+clear
+pip3
+sudo apt install python3-pip -y
+sudo apt update
+clear
+sudo apt install python3-pip -y
+clear
+pip3 install pandas
+clear
+man ls
+clear
+pwd
+ls -h
+ls -a
+clear
+pip list
+clear
+pip list
+pip3 list
+python
+python3
+clear
+cp README.md README-backup.md
+mv README-backup.md week01cd week01
+mv README-backup.md old-readme.md
+ls
+cp README.md README-backup.md
+mv README-backup.md week01cd week01
+mv README-backup.md week01cd week1
+mv README-backup.md week1cd week1
+mv README-backup.md week1\cd week1
+clear
+pwd
+clear
+python -m venv .venv
+python3 -m venv .venv
+sudo apt install python3.14-venv
+python3 -m venv .venv
+clear
+ls
+ls -l
+clear
+ls
+ls -a
+.venv\Scripts\Activate
+python3 .venv\Scripts\Activate
+clear
+python3 .venv\bin\Activate
+clear
+source venv/bin/Activate
+source .venv/bin/activate
+clear
+pip install pandas
+clear
+pip install plotly
+clear
+pip freeze >requirements.txt
+pwd
+pip list
+cd /
+cd coding-cafe
+pwd
+clear
+deactivate
+clear
+pwd
+cd coding-cafe
+pwd
+cd ..
+cd mnt
+ls
+cd c
+cd users
+cd ragha
+ls
+cd "\\wsl.localhost\Ubuntu\home\ragha\coding-cafe"
+cd `
+clear
+cd ~
+pwd
+cd coding-cafqe
+cd coding-cafe
+clear
+source .venv/bin/Activate
+source .venv/bin/activate
+clear
+deactivate
+cd ~
+cd ..
+pwd
+cd ..
+pwd
+cd C
+D:\AI_Assisted_Disease_Predictor-main\AI_Assisted_Disease_Predictor-main
+clear
+pwd
+cd D:\AI_Assisted_Disease_Predictor-main\AI_Assisted_Disease_Predictor-main
+clear
+cd "D:\AI_Assisted_Disease_Predictor-main\AI_Assisted_Disease_Predictor-main"
+cd D:\AI_Assisted_Disease_Predictor-main
+clear
+cd ..
+pwd
+clear
+cd D:
+cd D
+clear
+cd  mnt 
+ls
+cd D
+cd d
+ls
+cd AI_Assisted_Disease_Predictor-main
+ls
+cd AI_Assisted_Disease_Predictor-main
+clear
+ls
+python3 -v venv .myvenv
+clear
+python3 -m venv .venv
+clear
+python3 -m venv .venv
+sudo apt update
+sudo apt install python3-pip python3-venv -y
+clear
+python3 -m venv .venv
+source .venv/bin/activate
+clear
+pip instll -r requirements.txt
+pip install -r requirements.txt
+clear
+pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
+clear
+pwd
+ls
+ls -a
+ls -l
+cd ~
+mkdir -p coding-cafe/week01
+mkdir -p coding-cafe/week02
+touch coding-cafe/README.md
+touch coding-cafe/week02/notes.md
+ls coding-cafe/week02
+ls -R coding-cafe
+cd ~
+rm -- coding-cafe/requirements.txt
+rm -- coding-cafe/-h
+rm -r -- coding-cafe/week1
+rm -r -- coding-cafe/week2
+ls -R coding-cafe
+clear
+nano ~/coding-cafe/week02/notes.md
+cd ~/coding-cafe
+cp README.md README-backup.md
+mv README-backup.md week01/
+cd week01
+mv README-backup.md old-readme.md
+ls
+clear
+cp README.md README-backup.md
+ls -a
+ls
+clear
+ls
+clear
+cp README.md README-backup.md
+cd ..
+pwd
+cp README.md README-backup.md
+mv README-backup.md week01/
+cd week01
+mv README-backup.md old-readme.md
+ls
+rm old-readme.md
+ls
+nano ~/coding-cafe/week02/notes.md
+echo $PATH
+echo $PATH | tr ':' '\n'
+nano ~/coding-cafe/week2/notes.md
+nano ~/coding-cafe/week02/notes.md
+clear
+which python
+which python3
+nano ~/coding-cafe/week02/notes.md
+pyton
+clear
+pyton
+nano ~/coding-cafe/week02/notes.md
+cd ~/coding-cafe
+python3 -m venv .venv
+ls
+ls -a
+ls
+ls -a
+clear
+nano ~/coding-cafe/week02/notes.md
+source .venv/bin/activate
+nano ~/coding-cafe/week02/notes.md
+which python
+clear
+nano ~/coding-cafe/week02/notes.md
+pip list
+pip install requests
+pip list
+clear
+nano ~/coding-cafe/week02/notes.md
+deactivate
+which python
+which python3
+nano ~/coding-cafe/week02/notes.md
+man ls
+clear
+nano ~/coding-cafe/week02/notes.md
+man man
+history
+python3
+nano ~/coding-cafe/week02/notes.md
+cd ~/coding-cafe
+history | cut -c 8- > week02/lab01-log.txt
